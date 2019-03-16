@@ -6,16 +6,14 @@
 
 
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 * Laravel5.7
 * PHP7.2
 * MySql
 
 
-### Installation
+## Installation
 
 * Install PHP
   * `brew search php`
