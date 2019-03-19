@@ -2,7 +2,7 @@
 
 (Introduction goes here.) This is a Readme template for a real life project including almost all readme markdown syntax...
 
-![](image.png)
+![example image](image.png)
 
 
 
